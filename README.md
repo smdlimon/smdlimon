@@ -1,4 +1,6 @@
+<div align="center">
 <img src="https://avatars.githubusercontent.com/u/122974796?v=4" heght='300' width='300'>
+</div>
 
 <h1 align="center">Hi 👋, I'm Md Limon Sheikh</h1>
 <h3 align="center">I'm Full Stack Developer</h3>
